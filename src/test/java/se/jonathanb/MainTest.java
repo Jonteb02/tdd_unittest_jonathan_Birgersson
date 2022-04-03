@@ -24,14 +24,12 @@ public class MainTest {
         shoppingBasket.clear();
     }
 
-
     @Test
     @DisplayName("Remove all items from Basket")
     public void removeAllItemsFromBasket(){
         Main.removeAllItems();
         Assertions.assertEquals(0, shoppingBasket.size());
     }
-
 
     @Test
     @DisplayName("Total cost of all items in shopping basket")
