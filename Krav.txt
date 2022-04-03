@@ -1,0 +1,10 @@
+
+1. Kunna lägga till spel i varukorgen (För tillfället bara spel till ps5 senare till andra konsoler och till pc)
+2. Kunna ta bort allt hur varukorgen
+3. Kunna se det dyraste i varukorgen
+4. Kunna se kostnaden av hela varukorgen
+
+Webbtest
+
+1. Testa att titeln på sidan uppdaterats efter att användaren öppnat en ny sida
+2. Testa att det går att söka
